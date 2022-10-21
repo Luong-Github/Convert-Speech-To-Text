@@ -1,4 +1,4 @@
-# graduation_project
+# S2T - Welcome
 Implement speech to text model in winform 
 
 # requirements
