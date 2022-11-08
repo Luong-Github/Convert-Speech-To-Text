@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 #obj and bin C#
-./Speech2T_application/bin
-./Speech2T_application/obj
-./datasets
+Speech2T_application/bin/
+Speech2T_application/obj/
+datasets/
+docs/
